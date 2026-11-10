@@ -13,6 +13,6 @@
     <remove-project name="frameworks/layoutlib" />
     <project path="frameworks/layoutlib" name="platform/frameworks/layoutlib" remote="aosp" revision="refs/tags/android-17.0.0_r1" />
 
-    <remove-project name="hardware/clover/interfaces" />
+    <remove-project name="hardware_clover_interfaces" />
     <project path="hardware/clover/interfaces" name="hardware_clover_interfaces" remote="wanderer-dev" revision="17" />
 </manifest>
